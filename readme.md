@@ -1,4 +1,4 @@
-# Isaiah Stapleton & Emma Steuer
+# Emma Steuer
 
 ## This purpose of this project is to build understanding of threading and process synchronization and to implement a single producer/multiple consumer queue
 
